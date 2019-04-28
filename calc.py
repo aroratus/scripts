@@ -10,3 +10,4 @@ def square(x,y):
     pass
 def display:
     print "Output"
+****************************
