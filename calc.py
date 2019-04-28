@@ -9,4 +9,4 @@ def divide(x,y):
 def square(x,y):
     pass
 def display:
-    print "Outpuitt"
+    print "Output"
