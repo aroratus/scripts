@@ -11,3 +11,5 @@ def square(x,y):
 def display:
     print "Output"
 print
+def testing1()
+    pass
